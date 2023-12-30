@@ -4,6 +4,9 @@ In this project, I analyzed a healthcare database to assist a physician in deter
 
 [<img src="https://github.com/Sunny-Lai/FluShotDashboard/blob/main/FluShot.png" width="500">](https://public.tableau.com/views/ImmunizationDashboard_17032863888990/HealthcareSystemFluShots2022?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+## Data Source
+This data is synthetically generated and comes from a website called Synthea. No real patient data was used in this project.
+
 ## Skills
 Joins, Common Table Expressions, Aggregate Functions, Data Transformation, Data Visualization
 
